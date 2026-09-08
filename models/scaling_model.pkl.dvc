@@ -1,0 +1,5 @@
+outs:
+- md5: 61d49087f1fa9eb1f01f6a22efb3a579
+  size: 820
+  hash: md5
+  path: scaling_model.pkl

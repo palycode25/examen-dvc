@@ -1,0 +1,5 @@
+outs:
+- md5: fc88df180f55033ad250f38a6d6bfbcb
+  size: 72
+  hash: md5
+  path: best_params.pkl
