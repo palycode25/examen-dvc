@@ -1,4 +1,4 @@
-# Examen DVC et Dagshub
+# DVC et Dagshub
 Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
 
 ```bash       
